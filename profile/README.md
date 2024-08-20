@@ -20,11 +20,11 @@ The publicly developed repositories are listed below.
 
 
 ## Reinforcement Learning and Control
- * [Reinforcement Learning Course Materials](https://github.com/upb-lea/reinforcement_learning_course_materials)
+ * [Reinforcement Learning Course Materials](https://github.com/upb-lea/reinforcement_learning_course_materials) Summer Term 2024
  * [Gym Electric Motor (GEM):](https://github.com/upb-lea/gym-electric-motor) OpenAI Gym Environment for Electric Motors
  * [OpenModelica Microgrid Gym (OMG):](https://github.com/upb-lea/openmodelica-microgrid-gym) An OpenAI Gym Environment for Microgrids
  * [ElectricGrid:](https://github.com/upb-lea/ElectricGrid.jl) A Time Domain Electrical Energy Grid Modeling and Simulation Tool with a Focus on the Control of Power Electronics Converters
- * [gem-control](https://github.com/upb-lea/gem-control)
+ * [gem-control](https://github.com/upb-lea/gem-control) Standard Linear, Field-Oriented Controller Implementations for GEM
  * [meta_RL_PMSM:](https://github.com/upb-lea/meta_RL_PMSM) Meta Reinforcement Learning-Based CurrentControl of Permanent Magnet Synchronous MotorDrives for a Wide Range of Power Classes
 
 ## Control and Optimization Helper Tools
