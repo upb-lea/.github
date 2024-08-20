@@ -15,7 +15,7 @@ The publicly developed repositories are listed below.
 ## Power Electronics Helper Tools
  * [pyGeckoCircuits2:](https://github.com/upb-lea/pygeckocircuits2) Python Wrapper for GeckoCIRCUITS
  * [KiClearance:](https://github.com/upb-lea/KiClearance) Clearance Rules Generator for KiCad
- * [LEA KiCad Library](https://github.com/upb-lea/LEA_KiCad_Library)
+ * [LEA KiCad Library](https://github.com/upb-lea/LEA_KiCad_Library) KiCad Library Containing Reviewed Symbols and Footprints with Mouser Part Numbers 
  * [pySignalScope:](https://github.com/upb-lea/pySignalScope) Simulation and Measurement Plotting Tool
 
 
