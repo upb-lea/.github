@@ -30,6 +30,7 @@ The publicly developed repositories are listed below.
 
 ## Control and Optimization Helper Tools
  * [control-block-diagram:](https://github.com/upb-lea/control-block-diagram) Python Toolbox to draw Control Block Diagrams
+ * [DESSCA](https://github.com/upb-lea/DESSCA) Density Estimation-based State-Space Coverage Acceleration
  * [PSOAS:](https://github.com/upb-lea/PSOAS) Particle Swarm Optimization Assisted by Surrogates
 
 ## Misc
