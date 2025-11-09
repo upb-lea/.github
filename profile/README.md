@@ -11,8 +11,8 @@ The publicly developed repositories are listed below.
  * [Power Electronics Capacitor Selection Toolbox (PE-CST):](https://github.com/upb-lea/capacitor_selection_toolbox) Foil capacitor selection toolbox for power electronics conerters.
  * [Heat Sink Computation Toolbox (HCT):](https://github.com/upb-lea/HCT_heat_sink_computation_toolbox) Calculate and optimize fan cooled heat sink systems for power electronics converters
  * [MagNet Hub:](https://github.com/upb-lea/mag-net-hub) Certified Models of the MagNet Challenge
- * [LEA Control Board:](https://github.com/upb-lea/LCB-CCB-01_LEA_Control_Board) Microcontroller Platform to Control Hardware Prototypes
- * [Transistor database:](https://github.com/upb-lea/transistordatabase) Managing and Evaluating Power Transistors
+ * [LEA Control Board (LCB):](https://github.com/upb-lea/LCB-CCB-01_LEA_Control_Board) Microcontroller Platform to Control Hardware Prototypes
+ * [Transistor database (TDB):](https://github.com/upb-lea/transistordatabase) Managing and Evaluating Power Transistors
 
 ## Power Electronics Helper Tools
  * [pyGeckoCircuits2:](https://github.com/upb-lea/pygeckocircuits2) Python Wrapper for GeckoCIRCUITS
