@@ -8,6 +8,7 @@ The publicly developed repositories are listed below.
  * [awesome-open-source-power-electronics:](https://github.com/upb-lea/awesome-open-source-power-electronics) List of Open Source Power Electronic Tools
  * [FEM Magnetics Toolbox (FEMMT):](https://github.com/upb-lea/FEM_Magnetics_Toolbox) An Open-Source FEM Magnetics Toolbox for Power Electronic Magnetic Components
  * [Material Database:](https://github.com/upb-lea/materialdatabase) Database for Ferrite Core Materials to Store Datasheet Information and Self-Measured Data
+ * [Power Electronics Capacitor Selection Toolbox (PE-CST):](https://github.com/upb-lea/capacitor_selection_toolbox) Foil capacitor selection toolbox for power electronics conerters.
  * [Heat Sink Computation Toolbox (HCT):](https://github.com/upb-lea/HCT_heat_sink_computation_toolbox) Calculate and optimize fan cooled heat sink systems for power electronics converters
  * [MagNet Hub:](https://github.com/upb-lea/mag-net-hub) Certified Models of the MagNet Challenge
  * [LEA Control Board:](https://github.com/upb-lea/LCB-CCB-01_LEA_Control_Board) Microcontroller Platform to Control Hardware Prototypes
